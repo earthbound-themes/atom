@@ -12,7 +12,7 @@
         "snes",
         "nintendo"
     ],
-    "repository": "https://github.com/benbusby/earthbound-themes",
+    "repository": "https://github.com/benbusby/atom-earthbound-themes",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
