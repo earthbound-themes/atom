@@ -1,9 +1,11 @@
 ### Note: This is an Atom specific submodule for the [Earthbound Themes](https://github.com/benbusby/earthbound-themes) repo.
 
+**The [previous package](https://atom.io/themes/earthbound-syntax) has been deprecated, since Atom doesn't allow changing repo locations after publishing.**
+
 ![Earthbound Themes](https://raw.githubusercontent.com/benbusby/earthbound-themes/master/images/earthbound_themes.png)
 ____
 ![Earthbound Themes Preview](https://raw.githubusercontent.com/benbusby/earthbound-themes/master/images/earthbound_themes_preview.png)
-:art: *Code editor themes inspired by the memorable and bizarre locations from [Earthbound (aka Mother 2)](https://en.wikipedia.org/wiki/EarthBound).* <br><br>**Available now for [Vim](https://www.vim.org/scripts/script.php?script_id=5920), [VSCode](https://marketplace.visualstudio.com/items?itemName=benbusby.earthbound-themes), [Sublime](https://packagecontrol.io/packages/EarthboundThemes), and [Atom](https://atom.io/themes/earthbound-syntax)!**
+:art: *Code editor themes inspired by the memorable and bizarre locations from [Earthbound (aka Mother 2)](https://en.wikipedia.org/wiki/EarthBound).* <br><br>**Available now for [Vim](https://www.vim.org/scripts/script.php?script_id=5920), [VSCode](https://marketplace.visualstudio.com/items?itemName=benbusby.earthbound-themes), [Sublime](https://packagecontrol.io/packages/EarthboundThemes), and [Atom](https://atom.io/themes/earthbound-themes-syntax)!**
 ___
 [![MIT License](https://img.shields.io/github/license/benbusby/earthbound-themes.svg)](http://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/benbusby/earthbound-themes.svg)](https://github.com/benbusby/earthbound-themes/releases/)
@@ -119,7 +121,7 @@ These themes are nearly identical to their "regular" theme counterparts, but use
 - [Vim](https://www.vim.org/scripts/script.php?script_id=5920)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=benbusby.earthbound-themes)
 - [Sublime](https://packagecontrol.io/packages/EarthboundThemes)
-- [Atom](https://atom.io/themes/earthbound-syntax)
+- [Atom](https://atom.io/themes/earthbound-themes-syntax)
 - IntelliJ (in progress)
 - More coming soon!
 
@@ -134,7 +136,7 @@ Install through [the online marketplace](https://marketplace.visualstudio.com/it
 Install through Sublime by searching "EarthboundThemes" ([package info available here](https://packagecontrol.io/packages/EarthboundThemes)).
 
 ### Atom
-Install through [atom's online package site](https://atom.io/themes/earthbound-syntax), or by opening Atom and searching for "Earthbound" in Themes.
+Install through [atom's online package site](https://atom.io/themes/earthbound-themes-syntax), or by opening Atom and searching for "Earthbound" in Themes.
 
 ## Contributing
 Contributions and PRs are highly encouraged for improvements, new color themes, support for other editors, etc.
