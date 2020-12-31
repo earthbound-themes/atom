@@ -1,6 +1,6 @@
 {
     "name": "earthbound-themes-syntax",
-    "main": "./lib/earthbound-syntax",
+    "main": "./lib/earthbound-themes-syntax",
     "theme": "syntax",
     "version": "1.0.0",
     "description": "A collection of unique syntax themes inspired by the SNES game Earthbound",
